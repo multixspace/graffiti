@@ -1,1 +1,1 @@
-# CUBE
+# CUBE Distributed Computing System
