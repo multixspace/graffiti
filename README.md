@@ -1,1 +1,1 @@
-# Cube Data Management System
+# Cube Distributed Data Management System
