@@ -1,1 +1,1 @@
-# graffiti
+# Graffiti Data Serialization Format
