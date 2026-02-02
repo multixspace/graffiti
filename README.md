@@ -1,1 +1,1 @@
-# Graffiti Data Management System
+# Cube Data Management System
